@@ -9,3 +9,6 @@
 sample result:
 
   ![image](https://github.com/AlpeshJasani/Plagiarism-checker/assets/112234589/9a663153-3ce4-4b52-b787-44b25a787cd2)
+
+## Credit:
+[Alpesh Jasani](https://github.com/AlpeshJasani/)
